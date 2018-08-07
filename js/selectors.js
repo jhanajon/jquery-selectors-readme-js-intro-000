@@ -1,8 +1,9 @@
 // declare your functions here...
 function paragraphSelector() {
-$('p');
-return 'p';
-}
+ var par = $('p');
+  for(i = 0, i < par.length, i++); {
+  }
+;}
 
 
 function lastImageSelector() {
