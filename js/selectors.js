@@ -1,13 +1,13 @@
 // declare your functions here...
 function paragraphSelector() {
- var par = $('p');
-  for(i = 0, i < par.length, i++); {
-  }
-;}
+// var par = $('p');
+//   for(i = 0, i < par.length, i++); {
+//   }
+}
 
 
 function lastImageSelector() {
-  $('img:last');
+  return $('img:last');
 }
 
 function ninjaBabySelector() {
